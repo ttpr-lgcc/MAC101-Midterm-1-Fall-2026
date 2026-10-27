@@ -1,4 +1,7 @@
 # MAC101: Introduction to Computer Science C++
+
+<img width="2752" height="1536" alt="mac101-midterm-image-mini" src="https://github.com/user-attachments/assets/f63b25c6-8200-4e26-b47d-775519040881" />
+
 ## Midterm Assignment
 
 ### 📌 Submission Instructions
